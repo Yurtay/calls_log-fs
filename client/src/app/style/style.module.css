@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+.time {
+  color: blueviolet;
+  text-align: center;
+  font-family:orbitron;
+  width: 200px;
+}
+
+.textBtn {
+  color: blueviolet;
+  text-align: center;
+  font-family:orbitron;
+}
